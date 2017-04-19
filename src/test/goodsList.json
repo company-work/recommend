@@ -1,0 +1,143 @@
+{
+  "name": "红包测试",
+  "goodsInfoList": [
+    //字段同热卖推荐中的字段
+    {
+      "pricePointRegular": 11,
+      "pricePoint": 1,
+      "goodsTitle": "红包有效期",
+      "picIcon": "http://192.168.2.112/fup/image/pointmall/goods/201611/1480422935808.jpg",
+      "goodsId": 477,
+      "minUnion": {
+        //组合支付最低现价
+        "unionPoint": 100,
+        //积分价
+        "unionRmb": 200
+        //现金价
+      },
+      "maxUnionRegular": {
+        //组合支付最高原来价
+        "unionPoint": 300,
+        "unionRmb": 400
+      },
+      "goodsTag": ""
+    },
+    {
+      "pricePointRegular": 21,
+      "pricePoint": 21,
+      "goodsTitle": "商品上传3",
+      "picIcon": "http://192.168.2.112/fup/image/pointmall/goods/201609/1472812262118.png",
+      "goodsId": 388,
+      "minUnion": null,
+      "maxUnionRegular": null,
+      "goodsTag": ""
+    },
+    {
+      "pricePointRegular": 1111,
+      "pricePoint": 1,
+      "goodsTitle": "优化页面",
+      "picIcon": "http://192.168.2.112/fup/image/pointmall/goods/201611/1480471903933.jpeg",
+      "goodsId": 478,
+      "minUnion": null,
+      "maxUnionRegular": null,
+      "goodsTag": ""
+    },
+    {
+      "pricePointRegular": 555,
+      "pricePoint": 1,
+      "goodsTitle": "红包包有效期",
+      "picIcon": "http://192.168.2.112/fup/image/pointmall/goods/201611/1480324767761.jpg",
+      "goodsId": 472,
+      "minUnion": null,
+      "maxUnionRegular": null,
+      "goodsTag": ""
+    },
+    {
+      "pricePointRegular": 11,
+      "pricePoint": 1,
+      "goodsTitle": "红包有效期",
+      "picIcon": "http://192.168.2.112/fup/image/pointmall/goods/201611/1480422935808.jpg",
+      "goodsId": 477,
+      "minUnion": {
+        //组合支付最低现价
+        "unionPoint": 100,
+        //积分价
+        "unionRmb": 200
+        //现金价
+      },
+      "maxUnionRegular": {
+        //组合支付最高原来价
+        "unionPoint": 300,
+        "unionRmb": 400
+      },
+      "goodsTag": ""
+    },
+    {
+      "pricePointRegular": 21,
+      "pricePoint": 21,
+      "goodsTitle": "商品上传3",
+      "picIcon": "http://192.168.2.112/fup/image/pointmall/goods/201609/1472812262118.png",
+      "goodsId": 388,
+      "minUnion": null,
+      "maxUnionRegular": null,
+      "goodsTag": ""
+    },
+    {
+      "pricePointRegular": 1111,
+      "pricePoint": 1,
+      "goodsTitle": "优化页面",
+      "picIcon": "http://192.168.2.112/fup/image/pointmall/goods/201611/1480471903933.jpeg",
+      "goodsId": 478,
+      "minUnion": null,
+      "maxUnionRegular": null,
+      "goodsTag": ""
+    },
+    {
+      "pricePointRegular": 555,
+      "pricePoint": 1,
+      "goodsTitle": "红包包有效期",
+      "picIcon": "http://192.168.2.112/fup/image/pointmall/goods/201611/1480324767761.jpg",
+      "goodsId": 472,
+      "minUnion": null,
+      "maxUnionRegular": null,
+      "goodsTag": ""
+    },
+    {
+      "pricePointRegular": 11,
+      "pricePoint": 1,
+      "goodsTitle": "红包有效期",
+      "picIcon": "http://192.168.2.112/fup/image/pointmall/goods/201611/1480422935808.jpg",
+      "goodsId": 477,
+      "minUnion": {
+        //组合支付最低现价
+        "unionPoint": 100,
+        //积分价
+        "unionRmb": 200
+        //现金价
+      },
+      "maxUnionRegular": {
+        //组合支付最高原来价
+        "unionPoint": 300,
+        "unionRmb": 400
+      },
+      "goodsTag": ""
+    },
+    {
+      "pricePointRegular": 21,
+      "pricePoint": 21,
+      "goodsTitle": "商品上传3",
+      "picIcon": "http://192.168.2.112/fup/image/pointmall/goods/201609/1472812262118.png",
+      "goodsId": 388,
+      "minUnion": null,
+      "maxUnionRegular": null,
+      "goodsTag": ""
+    }
+  ],
+  "categoryNo": "0H",
+  "picSmall": null,
+  "pageNum": 1,
+  "totalPages": 2,
+  "next": true,
+  "stat": "ok",
+  "msg": null
+}
